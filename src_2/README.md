@@ -7,7 +7,7 @@ To run the code, execute:
 ```sudo python second_order_inf_no_prior.py```
 
 
-With line 799 
+With line 380
 ```iter_num = 200``` (selection threshould coefficient is 200), 
 
 and line 166 
