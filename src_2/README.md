@@ -1,4 +1,4 @@
-# Second-Order Inference on AFC data with Priors
+# Second-Order Inference on AFC data with NO Priors
 
 
 
